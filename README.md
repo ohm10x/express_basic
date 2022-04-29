@@ -9,5 +9,5 @@ BREVE DESCRIPCION: Creando mi primer server con Express.js
 
 
 NOTAS:
-Para parar el server es con: CONTROL+C
+Para parar el server es con --> CONTROL+C
 
